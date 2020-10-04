@@ -11,7 +11,8 @@ homepage:
 phone: 18093529095
 ---
 
-#### 南 澈
+<!--#### 南 澈-->
+<div align='center' ><font size='30'>南 澈</font></div>
 
 <!--
 include contact information from the front matter
