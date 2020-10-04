@@ -214,13 +214,10 @@ h3 {
 
 h4 {
   font-family: "Avenir Next", sans-serif;
-  text-align: center;
-  /* font-size: 50pt; */
-  font-size: 600%;
-  font-weight: lighter;
-  position: relative;
-  line-height: 1.2em;
-  position: relative;
+  height: 100px;
+  width: 30%;
+  text-align:center;
+  line-height:100px;
 }
 
 code {
