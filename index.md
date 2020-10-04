@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: cv
 title: Wode "Nimo" Ni
 email:
   url: mailto:2018212114@mail.hfut.edu.cn
