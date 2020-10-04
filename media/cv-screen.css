@@ -165,6 +165,19 @@ h1 {
   /* left: 28%; */
 }
 
+
+h1 {
+  font-family: "Avenir Next", sans-serif;
+  text-align: center;
+  /* font-size: 50pt; */
+  font-size: 600%;
+  font-weight: lighter;
+  position: relative;
+  line-height: 1.2em;
+  position: relative;
+  /* left: 28%; */
+}
+
 h1 strong {
   font-weight: normal !important;
   line-height: 1em;
@@ -197,6 +210,17 @@ h3 strong {
 
 h3 {
   margin-top: 10px;
+}
+
+h4 {
+  font-family: "Avenir Next", sans-serif;
+  text-align: center;
+  /* font-size: 50pt; */
+  font-size: 600%;
+  font-weight: lighter;
+  position: relative;
+  line-height: 1.2em;
+  position: relative;
 }
 
 code {
