@@ -65,6 +65,8 @@ Carlisle, PA
 
 -->
 
+<!--
+
 ## Publications
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
@@ -112,6 +114,12 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
+-->
+
+## PROJECT EXPERIENCE
+
+### **基于计算机视觉的交通系统智能应用** `2020.4 - 2020.5`
+
 ## Experience
 
 ### **Microsoft Research** `2020.5 -`
@@ -132,6 +140,8 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
+
+
 
 ## Mentoring
 
