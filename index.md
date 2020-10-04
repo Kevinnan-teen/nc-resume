@@ -116,7 +116,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 -->
 
-## PROJECT EXPERIENCE
+## Project Experience
 
 ### **基于计算机视觉的交通系统智能应用** `2020.4 - 2020.5`
 - 
