@@ -26,6 +26,15 @@ Supported arguments:
 
 ## Education
 
+### **合肥工业大学** `2018.9 - 2022.6`
+
+```
+Hefei, Anhui
+```
+
+- 电子信息工程 本科 计算机与信息学院
+
+<!--
 ### **Carnegie Mellon University** `2018.9 -`
 
 ```
@@ -52,6 +61,8 @@ Carlisle, PA
 
 - B.S. in Computer Science, _Summa Cum Laude_
 - Computer Science Departmental Honors
+
+-->
 
 ## Publications
 
