@@ -213,9 +213,7 @@ h3 {
 }
 
 h4 {
-  font-family: "Avenir Next", sans-serif;
-  height: 100px;
-  width: 30%;
+  /*font-family: "Avenir Next", sans-serif;*/
   text-align:center;
   line-height:100px;
 }
