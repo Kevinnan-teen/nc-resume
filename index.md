@@ -1,6 +1,7 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+<!--title: Wode "Nimo" Ni-->
+title: NC
 email:
   url: mailto:2018212114@mail.hfut.edu.cn
   text: 2018212114@mail.hfut.edu.cn
@@ -9,7 +10,7 @@ homepage:
   text: kevinnan.org.cn
 ---
 
-# Wode **Ni**
+# **南澈**
 
 <!--
 include contact information from the front matter
