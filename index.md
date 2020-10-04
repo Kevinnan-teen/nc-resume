@@ -33,6 +33,7 @@ Hefei, Anhui
 ```
 
 - 电子信息工程 本科 计算机与信息学院
+- GPA 3.3/4.0
 
 <!--
 ### **Carnegie Mellon University** `2018.9 -`
