@@ -147,13 +147,15 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 _Software Engineering Intern_<br>
 Worked on server-side web applications and server deployment tools.
 
-
+<!--
 
 ## Mentoring
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
 Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+
+-->
 
 ## Honors & Awards
 
@@ -170,6 +172,8 @@ John Montgomery Scholarship `Dickinson, 2013` <br>
 
 ---
 
+<!--
+
 ## Teaching
 
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
@@ -181,6 +185,8 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 ## Service
 
 Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+
+-->
 
 <!-- ### Footer
 
