@@ -8,6 +8,9 @@ email:
 homepage:
   url: http://kevinnan.org.cn/
   text: kevinnan.org.cn
+phone:
+  url: 18093529095
+  text: 18093529095
 ---
 
 # **南 澈**
