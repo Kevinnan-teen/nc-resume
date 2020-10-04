@@ -2,11 +2,11 @@
 layout: cv
 title: Wode "Nimo" Ni
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:2018212114@mail.hfut.edu.cn
+  text: 2018212114@mail.hfut.edu.cn
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://kevinnan.org.cn/
+  text: kevinnan.org.cn
 ---
 
 # Wode **Ni**
