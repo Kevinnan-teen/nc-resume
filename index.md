@@ -9,7 +9,7 @@ homepage:
   url: http://kevinnan.org.cn/
   text: kevinnan.org.cn
 phone:
-  url: 18093529095
+  url: mailto:18093529095	
   text: 18093529095
 ---
 
